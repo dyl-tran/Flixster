@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[![flixster-part1.gif](https://s5.gifyu.com/images/flixster-part1.gif)](https://gifyu.com/image/S3rQ8)
+<a href="https://imgbox.com/9HnMKibo" target="_blank"><img src="https://thumbs2.imgbox.com/74/0b/9HnMKibo_t.gif" alt="image host"/></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
