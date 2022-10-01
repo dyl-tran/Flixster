@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src='https://gfycat.com/ifr/FeistyOptimalHochstettersfrog' frameborder='0' scrolling='no' allowfullscreen width='640' height='1369'></iframe>
+[![flixster-part1.gif](https://i.postimg.cc/CxMm5qSF/flixster-part1.gif)](https://postimg.cc/F7qjn1Yq)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
