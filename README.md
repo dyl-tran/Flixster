@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 [![flixster-part1.gif](https://i.postimg.cc/CxMm5qSF/flixster-part1.gif)](https://postimg.cc/F7qjn1Yq)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
