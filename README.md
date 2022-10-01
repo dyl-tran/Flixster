@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![bruh](https://github.com/dylan-n-tran/blob/master/flixster-part1.gif?raw=true)
+![flixster-part1](https://user-images.githubusercontent.com/103216050/193385850-7542dfb0-7bc0-4fb1-87bf-5dd70d093aa4.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
